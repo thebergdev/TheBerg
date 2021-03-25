@@ -1,0 +1,16 @@
+.my-navbar {}
+.my-video-banner {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 50%;
+    overflow: hidden;
+}
+
+.my-video-banner-v {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 50%;
+    overflow: hidden;
+}
