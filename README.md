@@ -1,2 +1,2 @@
 # TheBerg
-A project used to explore nodeJS
+A project used to explore React
